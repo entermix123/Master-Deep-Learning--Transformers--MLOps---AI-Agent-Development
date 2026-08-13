@@ -10,20 +10,7 @@
 16.  [Day 14: CNN Project – Image Classification on Fashion MNIST or CIFAR-10](#)
 
 
-<img src="Section Name/pics/pica-name.png" width="800" />
-<br>
-<br>
-
-```python
-
-```
-
-Result:
-
-
 ## 10. Day 8: Introduction to Convolutional Neural Networks
-
-[⬆ Back to content](#content)
 
 **Overview of CNNs (Convolutional Neural Networks) and Their Role in Image Processing**
 
