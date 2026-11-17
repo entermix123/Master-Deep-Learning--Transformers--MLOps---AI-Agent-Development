@@ -1,13 +1,13 @@
 # Section 3 Convultional Neural Networks (CNNs) Notes
 
 ## Content
-10.  [Day 8: Introduction to Convolutional Neural Networks](#)
-11.  [Day 9: Convolutional Layers and Filters](#)
-12.  [Day 10: Pooling Layers and Dimensionality Reduction](#)
-13.  [Day 11: Building CNN Architectures with Keras and TensorFlow](#)
-14.  [Day 12: Building CNN Architectures with PyTorch](#)
-15.  [Day 13: Regularization and Data Augmentation for CNNs](#)
-16.  [Day 14: CNN Project – Image Classification on Fashion MNIST or CIFAR-10](#)
+10.  [Day 8: Introduction to Convolutional Neural Networks](#10-day-8-introduction-to-convolutional-neural-networks)
+11.  [Day 9: Convolutional Layers and Filters](#11-day-9-convolutional-layers-and-filters)
+12.  [Day 10: Pooling Layers and Dimensionality Reduction](#12-day-10-pooling-layers-and-dimensionality-reduction)
+13.  [Day 11: Building CNN Architectures with Keras and TensorFlow](#13-day-11-building-cnn-architectures-with-keras-and-tensorflow)
+14.  [Day 12: Building CNN Architectures with PyTorch](#14-day-12-building-cnn-architectures-with-pytorch)
+15.  [Day 13: Regularization and Data Augmentation for CNNs](#15-day-13-regularization-and-data-augmentation-for-cnns)
+16.  [Day 14: CNN Project – Image Classification on Fashion MNIST or CIFAR-10](#16-day-14-cnn-project--image-classification-on-fashion-mnist-or-cifar-10)
 
 
 ## 10. Day 8: Introduction to Convolutional Neural Networks
